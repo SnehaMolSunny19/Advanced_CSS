@@ -887,6 +887,9 @@ body {
     .article-heading-large {
         font-size: 5rem;
     }
+    .article-heading{
+        font-size: 2.5rem;
+    }
     .animate{
         position:relative;
         animation-name: move;
